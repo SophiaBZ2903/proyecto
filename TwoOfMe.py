@@ -1,3 +1,6 @@
+
+# HOLA SOPHI
+
 """
 REFLEJO - Prototipo con sistema de tiles + sprites
 Carga imágenes desde assets/sprites/ y usa placeholders si no existen.
